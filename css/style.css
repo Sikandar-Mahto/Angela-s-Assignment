@@ -1,0 +1,196 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* top-container starts */
+#top-container{
+    background-color: #E4F9F5;
+    text-align: center ;
+    position: relative;
+
+}
+
+.title-text>h1{
+    font-family: 'Charmonman', cursive;
+}
+
+.title-text>h2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+
+}
+
+.top-cloud{
+    margin: 50px  200px 50px 0px;
+    float: right;
+}
+
+.title-text{
+    padding: 150px;
+    font-size: xx-large;
+    color: #66bfbf;
+    line-height: 100px;
+}
+
+.middle-cloud{
+    position: absolute;
+    margin: -100px;
+}
+
+.bottom-mountain{
+    margin-top:-110px ;
+
+}
+
+
+/* middle-container starts */
+.middle-container{
+    font-family: 'Roboto', sans-serif;
+    margin: 20px auto;
+}
+
+.profile-container{
+    font-size: larger;
+    text-align: center;
+    margin: 100px auto;
+    width: 30%;
+}
+
+.profile-container>h2{
+    color: #11999E;
+    font-size: xxx-large;
+    padding: 30px;
+}
+
+hr{
+    margin: 0 auto;
+    border-top: dotted 10px rgba(222, 215, 215, 0.986);
+    border-bottom: 0px;
+    border-left: 0px;
+    color: #eaf6f6;
+    height: 0px;
+    width: 90px;
+}
+
+/* skill sections */
+.mySkills{
+    margin: 100px auto;
+    width: 40%;
+}
+
+.mySkills>h2{
+    color: #11999E;
+    font-size: xxx-large;
+    font-family: 'Roboto', sans-serif;
+    padding: 0px 0px 100px 0px;
+    text-align: center;
+}
+
+.skill-1{
+    margin: 5px 0px 100px 0px;
+    padding: 20px;
+}
+.skill-1>img{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 0px 20px 0px 0px;
+}
+.skill-1>h3{
+    color: #11999E;
+    font-family: 'Roboto', sans-serif;
+    margin: 20px 15px;
+    text-align: left;
+}
+.skill-1>p{
+    font-family: 'Roboto', sans-serif;
+    line-height: 30px;
+    margin: 0px 0px 20px 0px;
+    text-align: justify;
+}
+
+.skill-2{
+    margin: 100px 0px;
+    padding: 20px;
+}
+.skill-2>img{
+    width: 200px;
+    height: 200px;
+    float: right;
+    margin: 0px 0px 0px 20px;
+}
+
+.skill-2>h3{
+    color: #11999E;
+    font-family: 'Roboto', sans-serif;
+    margin: 20px 0px;
+    text-align: left;
+}
+
+.skill-2>p{
+    font-family: 'Roboto', sans-serif;
+    line-height: 30px;
+    margin: 0px 0px 20px 0px;
+    text-align: justify;
+}
+
+
+/* Get In Touch Section */
+#Get-in-touch{
+    margin: 100px auto;
+    text-align: center;
+    width: 85%;
+}
+
+#Get-in-touch>h2{
+    font-size: xxx-large;
+    font-family: 'Roboto', sans-serif;
+    padding: 30px 0px 30px;
+    color: #11999E;
+}
+
+#Get-in-touch>h3{
+    color: #11999E;
+    font-family: 'Roboto', sans-serif;
+    padding: 0px 0px 50px;
+}
+
+#Get-in-touch>p{
+    font-family: 'Roboto', sans-serif;
+    padding: 0px 0px 50px;
+}
+
+#Get-in-touch>button{
+    border-radius: 10px;
+    border-color: #11999E;
+    background-color: #11999E;
+    color: rgb(255, 255, 255);
+    font-size: larger;
+    padding: 10px 20px;
+}
+
+#Get-in-touch>button:hover{
+    background-color:  #66bfbf;
+}
+
+
+/* Bottom Section */
+#bottom-container{
+    background-color: #66bfbf;
+    height: 78px;
+    text-align: center;
+    padding: 60px 0px;
+}
+
+#bottom-container>a{
+    color: #11999E;
+    font-family: 'Roboto', sans-serif;
+    padding: 0px 40px;
+}
+
+#bottom-container>p{
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto', sans-serif;
+    padding: 50px 0px;
+}   
